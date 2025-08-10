@@ -10,7 +10,7 @@
     background-color: #f7f7f7;
   }
   .container {
-    display: flex;
+    display: flex
     gap: 10px;
     padding: 15px;
     border: 2px solid #ccc;
