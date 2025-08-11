@@ -7,7 +7,7 @@
   body {
     font-family: ans-serif;
     direction: rtl;
-    background-color: #f7f7f7;
+    background-colo: #f7f7f7;
   }
   .container {
     display: flex
