@@ -8,7 +8,7 @@
     font-family: ans-serif;
     direction: rtl;
     background-colo: #f7f7f7;
-  }
+  
   .container {
     display: flex
     gap: 10px;
