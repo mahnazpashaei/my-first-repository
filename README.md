@@ -9,7 +9,7 @@
     direction: rtl;
     background-colo: #f7f7f7;
   
-  .container {
+  .container 
     display: flex
     gap: 10px;
     padding: 15px;
