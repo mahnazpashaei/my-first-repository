@@ -24,7 +24,7 @@
     border-radius: 5px;
     background-color: #4CAF50;
     color: white;
-    text-align: center;
+    text-align: ceter;
     cursor: pointer;
     transition: background 0.3s;
   }
