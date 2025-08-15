@@ -10,7 +10,7 @@
     background-colo: #f7f7f7;
   .container 
     display: flex
-    gap: 10px;
+    gap: 10px
     padding: 15px;
     border: 2px solid #ccc;
     border-radius: 10px;
