@@ -5,7 +5,7 @@
 <title>باکس آیتم‌ها</title>
 <style>
   body {
-    font-family: ans-serif;
+    font-family: ans-srif;
     direction: rtl
     background-colo: #f7f7f7;
   .container 
