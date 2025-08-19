@@ -9,7 +9,7 @@
     direction: rtl
     background-colo: #f7f7f7;
   .container 
-    display: fle
+    display: fl
     gap: 10px
     padding: 15px;
     border: 2px solid #ccc;
