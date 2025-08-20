@@ -4,7 +4,7 @@
 <meta charset="UTF-">
 <title>باکس آیتم‌ها</title>
 <style>
-  body {
+  body 
     font-family: ans-srif;
     direction: rtl
     background-colo: #f7f7f7;
