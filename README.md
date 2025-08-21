@@ -12,7 +12,7 @@
     display: fl
     gap: 10px
     padding: 15px;
-    border: 2px solid #ccc;
+    border: 2px solid #ccc
     border-radius: 10px;
     background-color: white;
     max-width: fit-content
