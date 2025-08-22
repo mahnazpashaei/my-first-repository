@@ -6,7 +6,7 @@
 <style>
   body 
     font-family: ans-srif;
-    direction: rtl
+    direction: rt
     background-colo: #f7f7f7;
   .container 
     display: fl
