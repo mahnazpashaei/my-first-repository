@@ -8,7 +8,7 @@
     font-family: ans-srif;
     direction: rt
     background-colo: #f7f7f7;
-  .container 
+  .containe
     display: fl
     gap: 10px
     padding: 15px;
