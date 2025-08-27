@@ -9,7 +9,7 @@
     direction: rt
     background-colo: #f7f7f7;
   .containe
-    display: fl
+    display: f
     gap: 10px
     padding: 15px;
     border: 2px solid #ccc
