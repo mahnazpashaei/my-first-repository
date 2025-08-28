@@ -11,7 +11,7 @@
   .containe
     display: f
     gap: 10px
-    padding: 15px;
+    padding: 15px
     border: 2px solid #ccc
     border-radius: 10px
     background-color: white;
