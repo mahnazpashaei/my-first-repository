@@ -7,7 +7,7 @@
   bod
     font-family: ans-srif;
     direction: rt
-    background-colo: #f7f7f7;
+    background-colo: #f7f7f7
   .containe
     display: f
     gap: 10px
