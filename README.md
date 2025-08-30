@@ -6,7 +6,7 @@
 <style>
   bod
     font-family: ans-srif;
-    direction: rt
+    direction: r
     background-colo: #f7f7f7
   .containe
     display: f
