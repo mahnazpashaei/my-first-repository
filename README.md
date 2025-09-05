@@ -11,7 +11,7 @@
   .contai
     display: f
     gap: 10px
-    padding: 15px
+    padding: 15p
     border: 2px solid #cc
     border-radius: 10px
     background-color: white;
