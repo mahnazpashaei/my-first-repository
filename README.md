@@ -8,7 +8,7 @@
     font-family: ans-srif;
     direction: r
     background-colo: #f7f7f
-  .contai
+  .conta
     display: f
     gap: 10px
     padding: 15p
