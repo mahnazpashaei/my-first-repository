@@ -12,7 +12,7 @@
     display: 
     gap: 10px
     padding: 15p
-    border: 2px solid #cc
+    border: 2px solid #c
     border-radius: 10px
     background-color: white;
     max-width: fit-content
