@@ -11,7 +11,7 @@
   .conta
     display: 
     gap: 10px
-    padding: 15p
+    padding: 15
     border: 2px solid #c
     border-radius: 10px
     background-color: white;
