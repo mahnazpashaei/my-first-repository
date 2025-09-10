@@ -9,7 +9,7 @@
     direction: r
     background-colo: #f7f7f
   .conta
-    display: 
+    display
     gap: 10px
     padding: 15
     border: 2px solid #c
