@@ -5,7 +5,7 @@
 <title>باکس آیتم‌ها</title
 <style>
   bod
-    font-family: ans-srif;
+    font-family: ans-srif
     direction: r
     background-colo: #f7f7f
   .conta
