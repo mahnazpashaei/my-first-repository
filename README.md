@@ -10,7 +10,7 @@
     background-colo: #f7f7
   .cont
     displ
-    gap: 10px
+    gap: 10p
     padding: 1
     border: 2px solid #c
     border-radius: 10px
