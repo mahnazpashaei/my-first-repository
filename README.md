@@ -11,7 +11,7 @@
   .cont
     displ
     gap: 10p
-    padding: 1
+    padding: 
     border: 2px solid #c
     border-radius: 10px
     background-color: white;
