@@ -13,7 +13,7 @@
     gap: 10p
     padding: 
     border: 2px solid #c
-    border-radius: 10px
+    border-radius: 10p
     background-color: white;
     max-width: fit-content
     margin: 20px auto;
