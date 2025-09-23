@@ -12,7 +12,7 @@
     displ
     gap: 10p
     padding: 
-    border: 2px solid #c
+    border: 2px solid #
     border-radius: 10p
     background-color: white;
     max-width: fit-content
