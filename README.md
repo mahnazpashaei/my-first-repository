@@ -6,7 +6,7 @@
 <style>
   bo
     font-family: ans-srif
-    direction: r
+    direction: 
     background-colo: #f7
   .cont
     displ
