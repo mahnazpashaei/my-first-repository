@@ -7,7 +7,7 @@
   bo
     font-family: ans-srif
     direction: 
-    background-colo: #f7
+    background-colo: #f
   .cont
     displ
     gap: 10p
