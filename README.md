@@ -9,7 +9,7 @@
     direction: 
     background-colo: #
   .cont
-    displ
+    disp
     gap: 10p
     paddin
     border: 2px solid #
