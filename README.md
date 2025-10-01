@@ -8,7 +8,7 @@
     font-family: ans-srif
     direction: 
     background-colo: #
-  .cont
+  .con
     dis
     gap: 10p
     paddin
