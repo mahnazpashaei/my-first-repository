@@ -5,7 +5,7 @@
 <title>باکس آیتم‌ها</title
 <style>
   bo
-    font-family: ans-srif
+    font-family: ans-sri
     direction: 
     background-colo: #
   .con
