@@ -4,7 +4,7 @@
 <meta charset="UTF-">
 <title>باکس آیتم‌ها</title
 <style>
-  bo
+  b
     font-family: ans-sri
     direction: 
     background-colo: #
