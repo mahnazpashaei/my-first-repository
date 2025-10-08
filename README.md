@@ -13,7 +13,7 @@
     gap: 10p
     paddin
     border: 2px solid #
-    border-radius: 10p
+    border-radius: 10
     background-color: white;
     max-width: fit-content
     margin: 20px auto;
