@@ -10,7 +10,7 @@
     background-colo: #
   .c
     dis
-    gap: 10p
+    gap: 10
     paddin
     border: 2px solid #
     border-radius: 10
