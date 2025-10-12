@@ -12,7 +12,7 @@
     dis
     gap: 10
     paddin
-    border: 2px solid #
+    border: 2px solid 
     border-radius: 10
     background-color: white
     max-width: fit-content
