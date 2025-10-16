@@ -15,7 +15,7 @@
     border: 2px solid 
     border-radius: 1
     background-color: whit
-    max-width: fit-content
+    max-width: fit-conten
     margin: 20px auto;
   }
   .item {
