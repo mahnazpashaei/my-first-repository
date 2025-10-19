@@ -14,7 +14,7 @@
     paddin
     border: 2px solid 
     border-radius: 1
-    background-color: whi
+    background-color: w
     max-width: fit-conten
     margin: 20px aut
   }
