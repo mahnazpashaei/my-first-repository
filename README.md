@@ -15,7 +15,7 @@
     border: 2px solid 
     border-radius: 1
     background-color: w
-    max-width: fit-conte
+    max-width: fit-cont
     margin: 20px aut
   }
   .item {
