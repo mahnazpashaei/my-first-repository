@@ -13,7 +13,7 @@
     gap: 
     paddin
     border: 2px solid 
-    border-radius: 1
+    border-radius: 
     background-color: 
     max-width: fit-con
     margin: 20px a
