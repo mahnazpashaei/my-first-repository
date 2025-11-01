@@ -16,7 +16,7 @@
     border-radius
     background-color:
     max-width: fit-c
-    margin: 20px a
+    margin: 20px 
   }
   .item {
     padding: 10px 15p
