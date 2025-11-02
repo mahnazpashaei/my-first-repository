@@ -12,7 +12,7 @@
     dis
     gap: 
     paddin
-    border: 2px solid 
+    border: 2px soli
     border-radius
     background-color:
     max-width: fit-c
