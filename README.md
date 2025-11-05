@@ -14,7 +14,7 @@
     paddin
     border: 2px soli
     border-radius
-    background-co
+    background-c
     max-width: fit-c
     margin: 20px 
   }
