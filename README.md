@@ -11,7 +11,7 @@
   .c
     dis
     gap: 
-    paddin
+    paddi
     border: 2px soli
     border-radius
     background-c
