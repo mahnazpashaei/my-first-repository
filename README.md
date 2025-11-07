@@ -13,7 +13,7 @@
     gap: 
     paddi
     border: 2px soli
-    border-radius
+    border-radi
     background-c
     max-width: fit-c
     margin: 20px 
