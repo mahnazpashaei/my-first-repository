@@ -10,7 +10,7 @@
     background-colo: #
   .c
     dis
-    gap: 
+    gap
     paddi
     border: 2px soli
     border-r
