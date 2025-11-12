@@ -15,7 +15,7 @@
     border: 2px soli
     border-r
     background-c
-    max-width: fit-
+    max-width: fit
     margin: 20px 
   }
   .item {
