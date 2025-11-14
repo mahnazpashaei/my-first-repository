@@ -9,7 +9,7 @@
     direction: 
     background-colo: #
   .c
-    dis
+    di
     gap
     paddi
     border: 2px soli
