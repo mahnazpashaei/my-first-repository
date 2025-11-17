@@ -16,7 +16,7 @@
     border-r
     background-c
     max-width: fit
-    margin: 20px 
+    margin: 20
   }
   .item {
     padding: 10px 15p
