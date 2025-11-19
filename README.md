@@ -14,7 +14,7 @@
     paddi
     border: 2p
     border-r
-    background-c
+    background-
     max-width: fit
     margin: 20
   }
