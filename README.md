@@ -12,7 +12,7 @@
     di
     gap
     paddi
-    border: 2p
+    border: 2
     border-r
     background-
     max-width: fit
