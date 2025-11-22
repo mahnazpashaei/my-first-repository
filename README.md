@@ -11,7 +11,7 @@
   .c
     di
     gap
-    paddi
+    pad
     border: 2
     border-r
     backgroun
