@@ -12,7 +12,7 @@
     di
     gap
     pad
-    border: 2
+    border: 
     border-r
     backgroun
     max-width: fit
