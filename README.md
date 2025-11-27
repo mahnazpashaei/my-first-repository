@@ -16,7 +16,7 @@
     border-r
     backgroun
     max-width: fit
-    margin: 2
+    margin: 
   }
   .item {
     padding: 10px 15p
