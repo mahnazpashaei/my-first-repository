@@ -14,7 +14,7 @@
     pad
     border
     border-r
-    backgroun
+    backgrou
     max-width: fit
     margin: 
   }
