@@ -13,7 +13,7 @@
     gap
     pad
     border
-    border-r
+    border-
     backgrou
     max-width: fit
     margin: 
