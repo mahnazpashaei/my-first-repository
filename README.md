@@ -15,7 +15,7 @@
     border
     border-
     backgrou
-    max-width: fit
+    max-width: fi
     margin: 
   }
   .item {
