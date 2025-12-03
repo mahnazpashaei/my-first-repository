@@ -14,7 +14,7 @@
     pad
     border
     border-
-    backgrou
+    backgr
     max-width: fi
     margin: 
   }
