@@ -9,7 +9,7 @@
     direction: 
     background-colo: #
   .c
-    di
+    d
     gap
     pad
     border
