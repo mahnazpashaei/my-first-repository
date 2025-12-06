@@ -12,7 +12,7 @@
     d
     gap
     pad
-    borde
+    bord
     border-
     backgr
     max-width: fi
