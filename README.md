@@ -14,7 +14,7 @@
     pad
     bord
     border-
-    backgr
+    backg
     max-width: fi
     margin: 
   }
