@@ -13,7 +13,7 @@
     gap
     pad
     bord
-    border-
+    border
     backg
     max-width: fi
     margin: 
