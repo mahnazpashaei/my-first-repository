@@ -12,7 +12,7 @@
     d
     gap
     pad
-    bor
+    bo
     border
     backg
     max-width: fi
