@@ -11,7 +11,7 @@
   .c
     d
     gap
-    pad
+    pa
     bo
     border
     backg
