@@ -13,7 +13,7 @@
     gap
     pa
     bo
-    border
+    borde
     backg
     max-width: fi
     margin: 
