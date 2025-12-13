@@ -14,7 +14,7 @@
     pa
     bo
     borde
-    backg
+    back
     max-width: fi
     margin: 
   }
