@@ -11,7 +11,7 @@
   .c
     d
     gap
-    pa
+    p
     bo
     borde
     back
