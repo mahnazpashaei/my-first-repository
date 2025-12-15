@@ -10,7 +10,7 @@
     background-colo: #
   .c
     d
-    gap
+    ga
     p
     bo
     borde
