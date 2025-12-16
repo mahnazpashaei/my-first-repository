@@ -13,7 +13,7 @@
     ga
     p
     bo
-    borde
+    bord
     back
     max-width: fi
     margin: 
