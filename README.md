@@ -12,7 +12,7 @@
     d
     ga
     p
-    bo
+    b
     bord
     back
     max-width: fi
