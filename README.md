@@ -13,7 +13,7 @@
     ga
     p
     b
-    bord
+    bor
     back
     max-width: fi
     margin: 
