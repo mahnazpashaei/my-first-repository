@@ -13,7 +13,7 @@
     ga
     p
     b
-    b
+    
     back
     max-width: fi
     margin: 
