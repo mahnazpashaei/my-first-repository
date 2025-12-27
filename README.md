@@ -10,7 +10,7 @@
     background-colo: #
   .c
     d
-    g
+    
     p
     b
     
