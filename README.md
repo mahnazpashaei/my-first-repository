@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-"
 <title>باکس آیتم‌ها</ti
-<sty
+<st
   
     font-family: ans-sri
     direction: 
