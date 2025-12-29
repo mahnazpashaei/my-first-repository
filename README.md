@@ -28,7 +28,7 @@
     transition: background 0.3s;
   
   .item:hover {
-    background-color: #45a049;
+    background-color: #45a049
   }
 </style>
 </head>
