@@ -24,7 +24,7 @@
     background-color: #4CAF50;
     color: white;
     text-align: ceter;
-    cursor: pointer;
+    cursor: pointer
     transition: background 0.3s;
   
   .item:hover {
