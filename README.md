@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa">
-<head>
+<head
 <meta charset="UTF-
 <title>باکس آیتم‌ها</
 <st
