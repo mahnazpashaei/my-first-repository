@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fa">
+<html lang="fa"
 <head
 <meta charset="UTF-
 <title>باکس آیتم‌ها</
