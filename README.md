@@ -25,7 +25,7 @@
     color: white;
     text-align: ceter;
     cursor: pointer
-    transition: background 0.3s
+    transition: background 0.3
   
   .item:hover {
     background-color: #45a049
