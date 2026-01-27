@@ -19,7 +19,7 @@
     margin: 
   }
   .item {
-    padding: 10px 15p
+    padding: 10px 5p
     border-radius: 5px;
     background-color: #4CAF50;
     color: white;
