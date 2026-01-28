@@ -2,7 +2,7 @@
 <html lang="fa"
 <head
 <meta charset="UTF-
-<title>باکس آیتم‌ها<
+<title>باکس آیتم‌ها
 <st
   
     font-family: ans-sri
