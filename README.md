@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa"
 <head
-<meta charset="
+<meta charset=
 <title>باکس آیتم‌ها
 <st
   
