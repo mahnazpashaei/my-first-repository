@@ -7,7 +7,7 @@
   
     font-family: ans-sri
     direction: 
-    background-colo: 
+    background-col
   .c
     d
     
