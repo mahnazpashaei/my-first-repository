@@ -3,7 +3,7 @@
 <head
 <meta charset
 <titleباکس آیتم‌ها
-<s
+<
   
     font-family: ans-sri
     direction: 
