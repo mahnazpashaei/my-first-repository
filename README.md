@@ -6,7 +6,7 @@
 <
   
     font-family: ans-sri
-    direction: 
+    direction
     background-col
   .c
     d
