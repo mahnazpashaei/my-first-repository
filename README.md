@@ -4,7 +4,7 @@
 <meta charset
 <titleباکس آیتم‌ها
 <
-  
+
     font-family: ans-sri
     direction
     background-col
