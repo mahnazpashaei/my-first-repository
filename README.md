@@ -1,7 +1,7 @@
 <!DOCTYPE html
 <html lang="fa
 <head
-<meta charse
+<meta chars
 <titlباکس آیتم‌ها
 <
 
