@@ -3,7 +3,6 @@
 <head
 <meta chars
 <titlباکس آیتم‌ها
-<
 
     font-family: ans-sri
     direction
