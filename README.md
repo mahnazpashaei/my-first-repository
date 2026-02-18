@@ -1,6 +1,6 @@
 <!DOCTYPE html
 <html lang="fa
-<head
+<hea
 <meta chars
 <titlباکس آیتم‌ها
 
