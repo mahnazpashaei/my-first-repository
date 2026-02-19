@@ -1,5 +1,5 @@
 <!DOCTYPE html
-<html lang="fa
+<html lang="f
 <hea
 <meta chars
 <titlباکس آیتم‌ها
