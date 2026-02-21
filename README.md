@@ -2,7 +2,7 @@
 <html lang="f
 <hea
 <meta chars
-<titباکس آیتم‌ها
+<tiباکس آیتم‌ها
 
     font-family: ans-sri
     direction
