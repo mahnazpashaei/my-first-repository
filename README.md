@@ -4,7 +4,7 @@
 <meta chars
 <tiباکس آیتم‌ها
 
-    font-family: ans-sri
+    font-family: ans-sr
     direction
     background-col
   .c
