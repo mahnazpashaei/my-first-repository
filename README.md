@@ -5,7 +5,7 @@
 <tiباکس آیتم‌ها
 
     font-family: ans-s
-    direction
+    directio
     background-col
   .c
     d
