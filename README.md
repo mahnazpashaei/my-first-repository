@@ -1,5 +1,5 @@
 <!DOCTYPE html
-<html lang="f
+<html lang="
 <hea
 <meta chars
 <tiباکس آیتم‌ها
