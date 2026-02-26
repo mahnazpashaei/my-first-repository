@@ -4,7 +4,7 @@
 <meta chars
 <tiباکس آیتم‌ها
 
-    font-family: ans-s
+    font-family: ans-
     directio
     background-col
   .c
