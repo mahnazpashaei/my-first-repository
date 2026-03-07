@@ -1,7 +1,7 @@
 <!DOCTYPE html
 <html lang="
 <he
-<meta chars
+<meta char
 <tiباکس آیتم‌ها
 
     font-family: an
