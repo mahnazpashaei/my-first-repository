@@ -6,7 +6,7 @@
 
     font-family: an
     directi
-    background-col
+    background-co
   .c
     d
     
