@@ -5,7 +5,7 @@
 <tiباکس آیتم‌ها
 
     font-family: an
-    directi
+    direct
     background-co
   .c
     d
