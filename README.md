@@ -10,7 +10,7 @@
   .c
     d
     
-    p
+    
     b
     
     back
