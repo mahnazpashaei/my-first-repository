@@ -7,7 +7,7 @@
     font-family: a
     direct
     background-co
-  .c
+  .
     d
     
     b
