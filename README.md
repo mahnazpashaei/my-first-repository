@@ -14,7 +14,7 @@
     
     back
     max-width: fi
-    margin: 
+    margin
   }
   .item {
     padding: 10px 5p
