@@ -16,7 +16,7 @@
     margi
   }
   .item {
-    padding: 10px 5p
+    padding: 10px 5
     border-radius: 5px;
     background-color: #4CAF50;
     color: white;
