@@ -13,7 +13,7 @@
     
     back
     max-width: fi
-    margi
+    marg
   }
   .item {
     padding: 10px 5
