@@ -4,7 +4,7 @@
 <meta char
 <tiباکس آیتم‌ها
     font-family: a
-    dire
+    dir
     background-c
     d
 
