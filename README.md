@@ -2,7 +2,7 @@
 <html lang="
 <he
 <meta char
-<tiباکس آیتم‌ها
+<tباکس آیتم‌ها
     font-family: a
     dir
     background-
