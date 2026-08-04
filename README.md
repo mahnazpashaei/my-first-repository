@@ -2,7 +2,7 @@
 <html lang="
 <h
 <meta char
-<tباکس آیتم‌ها
+<باکس آیتم‌ها
     font-family: 
     dir
     background-
