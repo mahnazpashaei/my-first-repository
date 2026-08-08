@@ -4,7 +4,7 @@
 <meta char
 <باکس آیتم‌ها
     font-family: 
-    dir
+    di
     background-
 
     bac
