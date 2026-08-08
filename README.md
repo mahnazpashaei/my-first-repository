@@ -8,7 +8,7 @@
     background-
 
     bac
-    max-width: f
+    max-width: 
     marg
   }
   .item {
