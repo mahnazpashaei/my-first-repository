@@ -7,7 +7,7 @@
     di
     background-
 
-    bac
+    ba
     max-width: 
     marg
   }
