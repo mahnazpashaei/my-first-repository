@@ -5,7 +5,7 @@
 <باکس آیتم‌ها
     font-family
     di
-    backgro
+    backgr
 
     ba
     max-width: 
