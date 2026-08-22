@@ -9,7 +9,7 @@
 
     ba
     max-width: 
-    marg
+    mar
   }
   .item {
     padding: 10px 
