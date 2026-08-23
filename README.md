@@ -5,8 +5,7 @@
 <باکس آیتم‌ها
     font-fami
     di
-    backgr
-
+    backg
     ba
     max-width: 
     mar
