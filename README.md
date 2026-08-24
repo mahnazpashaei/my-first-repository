@@ -4,7 +4,7 @@
 <meta char
 <باکس آیتم‌ها
     font-fami
-    di
+    d
     backg
     ba
     max-width: 
