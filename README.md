@@ -6,7 +6,7 @@
     font-fami
     d
     backg
-    ba
+    b
     max-width: 
     mar
   }
