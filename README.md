@@ -4,7 +4,7 @@
 <باکس آیتم‌ها
     font-fami
     d
-    backg
+    back
     b
     max-width: 
     mar
