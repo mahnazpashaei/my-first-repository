@@ -1,5 +1,5 @@
 <!DOCTYPE htm
-<html lang=
+<html lang
 <meta char
 <باکس آیتم‌ها
     font-fami
