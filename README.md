@@ -2,7 +2,7 @@
 <html lang
 <meta char
 <باکس آیتم‌ها
-    font-fami
+    font-fam
     d
     back
     
