@@ -9,7 +9,7 @@
     max-width: 
     mar
   
-  .item {
+  .item 
     padding: 10px 
     border-radius: 5px;
     background-color: #4CAF50;
