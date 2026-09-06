@@ -3,7 +3,6 @@
 <meta char
 <باکس آیتم‌ها
     font-fam
-    
     back
     
     max-width: 
