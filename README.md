@@ -9,7 +9,7 @@
   
   .ite
     padding: 10px 
-    border-radius: 5px;
+    border-radius: 5p
     background-color: #4CAF50;
     color: white;
     text-align: ceter;
