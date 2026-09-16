@@ -12,7 +12,7 @@
     border-radius:
     background-color: #4CAF50;
     color: white;
-    text-align: ceter;
+    text-align: ceter
     cursor: pointe
     transition: background 0.3
   
