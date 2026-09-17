@@ -13,7 +13,7 @@
     background-color: #4CAF50;
     color: white;
     text-align: ceter
-    cursor: pointe
+    cursor: point
     transition: background 0.3
   
   .item:hover 
