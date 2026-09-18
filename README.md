@@ -7,7 +7,7 @@
     max-width: 
     mar
   
-  .ite
+  .it
     padding: 10p
     border-radius:
     background-color: #4CAF50;
