@@ -4,7 +4,7 @@
 <باکس آیتم‌ها
     font-fa
     bac
-    max-width: 
+    max-width
     mar
   
   .it
