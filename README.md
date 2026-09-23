@@ -6,7 +6,6 @@
     bac
     max-width
     mar
-  
   .it
     padding: 10p
     border-radius
