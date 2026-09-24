@@ -9,7 +9,7 @@
   .it
     padding: 10p
     border-radius
-    background-color: #4CAF50;
+    background-color: #4CAF50
     color: white
     text-align: ceter
     cursor: point
