@@ -10,7 +10,7 @@
     padding: 10p
     border-radius
     background-color: #4CAF50
-    color: white
+    color: whit
     text-align: ceter
     cursor: point
     transition: background 0.3
