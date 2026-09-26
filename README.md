@@ -8,7 +8,7 @@
     mar
   .it
     padding: 10p
-    border-radius
+    border-radiu
     background-color: #4CAF50
     color: whit
     text-align: ceter
