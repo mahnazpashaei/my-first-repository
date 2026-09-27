@@ -5,7 +5,7 @@
     font-fa
     bac
     max-width
-    mar
+    ma
   .it
     padding: 10p
     border-radiu
