@@ -7,7 +7,7 @@
     max-width
     ma
   .it
-    padding: 10p
+    paddin: 10p
     border-radi
     background-color: #4CAF
     color: whit
