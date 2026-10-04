@@ -12,7 +12,7 @@
     background-color: #4CAF
     color: whit
     text-align: ceter
-    cursor: point
+    cursor: poin
     transition: background 0.3
   
   .item:hover 
